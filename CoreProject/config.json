@@ -1,0 +1,25 @@
+{
+  "exclude": [
+    "**/bin",
+    "**/bower_components",
+    "**/jspm_packages",
+    "**/node_modules",
+    "**/obj",
+    "**/platforms"
+  ],
+
+  "ConnectionStrings": {
+    "CoreConnectionString": "server=(localdb)\\MSSQLLocalDB;Database=CoreProjectDB;Integrated Security=true;MultipleActiveResultSets=true;"
+  },
+  "Logging": {
+    "LogLevel": {
+      "Default": "Warning",
+      "Microsoft": "Warning"
+    }
+  },
+  "Tokens": {
+    "Key": "asd adas dsdkdñlklfkjsljsgj",
+    "Issuer": "localhost",
+    "Audience": "users"
+  }
+}

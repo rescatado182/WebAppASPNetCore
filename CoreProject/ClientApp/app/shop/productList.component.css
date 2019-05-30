@@ -1,0 +1,20 @@
+﻿body {
+    font-size: 12px;
+}
+
+
+.product-info {
+    font-size: 12px;
+    margin-bottom: 20px;
+}
+    .product-info img {
+    max-width: 100px;
+    float: left;
+    margin: 0 5px;
+    border: 1px solid black;
+}
+
+.product-info .product-name {
+    font-size: larger;
+    font-weight: bold;
+}
